@@ -1,4 +1,4 @@
-### Hi there 👋
+🌱 I’m currently learning computer science at Politechnika Warszawska in Warsaw
 
 <!--
 **fuksja/fuksja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
